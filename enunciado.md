@@ -51,5 +51,5 @@ Nos interesa:
 - Que los suscriptores una vez visto el resumen puedan darle, like o dislike. Nos gustaría saber el resumen con mas likes y el resumen con mas dislikes.
 
 ### Nota:
-Además de realizar el código que implemente lo pedido respetando los conceptos del paradigma de objetos, es necesario hacer el diagrama de clases.
+Además de realizar el código que implemente lo pedido respetando los conceptos del paradigma de objetos, es necesario hacer el diagrama de clases a mano y subir una foto al repositorio.
 
