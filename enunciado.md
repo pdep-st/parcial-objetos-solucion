@@ -45,7 +45,7 @@ object canalYoutube {
 ```
 
 Nos interesa:
-- Agregar un resumen a nuestro canal. Es importante que al agregarlo, además se le agregue como pendiente de visualización a los suscriptores que podría gustarle ese resumen. Si no existiera ningún suscriptor al que le guste el resumen, no debemos agregarlo, ya que sería un video muy malo como para subirlo. Es importante que nos enteremos de esto.
+- Agregar un resumen a nuestro canal. Es importante que al agregarlo, además se le agregue como pendiente de visualización a los suscriptores que podría gustarle ese resumen. Si no existiera ningún suscriptor al que le guste el resumen, no debemos agregarlo, ya que sería un resumen muy malo como para subirlo. Es importante que nos enteremos de esto.
 - Saber aquellos suscriptores adictos, es decir, los que vieron más de un 80% de los vídeos.
 - Saber las canciones que piden los suscriptores (las canciones que les gusta). Es importante que sea sin repetidos.
 - Que los suscriptores una vez visto el resumen puedan darle, like o dislike. Nos gustaría saber el resumen con mas likes y el resumen con mas dislikes.
