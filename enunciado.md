@@ -9,7 +9,7 @@ Un resumen está conformado por una introducción y un conjunto de secciones, ca
 - Queremos poder agregar una sección a un resumen. Además, nos gustaría que nos muestre cómo se haría esto, tanto la creación de la sección a agregar, como agregarla al resumen.
 - Queremos saber la duración de un resumen, que es la sumatoria de duraciones de la sección más el tiempo que tarda en decir la introducción (cantidad de palabras por 10).
 - Queremos saber si un resumen tiene cierta canción (lo único importante de la canción es el nombre)
-- Queremos saber si un resumen tiene una referencia a otro resumen
+- Queremos saber si un resumen tiene alguna seccion que referencie a otra sección
 - Queremos saber el libreto de un resumen, esto sería la introducción y todos los speech de las secciones concatenados por un "." (revisar [join](https://www.wollok.org/documentacion/wollokdoc/))
 
 ## Espectador y resúmenes
