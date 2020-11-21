@@ -52,4 +52,4 @@ Nos interesa:
 
 ### Nota:
 Además de realizar el código que implemente lo pedido respetando los conceptos del paradigma de objetos, es necesario hacer el diagrama de clases a mano y subir una foto al repositorio.
-
+Cualquier cosa teorica que deban responder subirla en un archivo separado con extension .md
